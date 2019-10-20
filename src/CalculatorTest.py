@@ -29,6 +29,10 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(self.calculator.square(3, 2), 9)
         self.assertEqual(self.calculator.result, 9)
 
+    def test_sqrt(self):
+        self.assertEqual(self.calculator.sqrt(9), 3)
+        self.assertEqual(self.calculator.result, 3)
+
     def test_results_property(self):
         self.assertEqual(self.calculator.result, 0)
 

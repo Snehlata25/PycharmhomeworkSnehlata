@@ -23,6 +23,11 @@ def square(a, b):
     return c
 
 
+def sqrt(a):
+    c = a ** (1 / 2)
+    return c
+
+
 class Calculator:
     result = 0
 
@@ -48,3 +53,13 @@ class Calculator:
     def square(self, a, b):
         self.result = square(a, b)
         return self.result
+
+    def sqrt(self, a):
+        self.result = sqrt(a)
+        return self.result
+
+    def squareroot(self, a):
+        self.result = squareroot(a)
+        return self.result
+
+
