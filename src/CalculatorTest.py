@@ -9,9 +9,16 @@ class MyTestCase(unittest.TestCase):
     def test_instantiate_calculator(self):
         self.assertIsInstance(self.calculator, Calculator)
 
+    def test_results_property_calculator(self):
+        self.assertEqual(self.calculator.result, 0)
+
     def test_addition(self):
         self.assertEqual(self.calculator.add(1, 1), 2)
         self.assertEqual(self.calculator.result, 2)
+
+    for row in test_data:
+        self.assertEqual(self.calculator.add(row['addvalue2'], row['addvalue1']), int(row['addresult']))
+        self.assertEqual(self.calculator.result, int(row['addresult']))
 
     def test_subtraction(self):
         self.assertEqual(self.calculator.subtract(1, 1), 0)
