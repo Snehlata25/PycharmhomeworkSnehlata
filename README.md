@@ -1,6 +1,11 @@
-# PycharmhomeworkSnehlata
+**Homework: Create a Calculator- Individual**
 
-Changelog:
+For this project we need to create a calculator using Python that has automated unit tests.  Our calculator is required to perform the following operations: addition, subtraction, multiplication, division, square, and square root.  We need to correctly use static methods, object methods, object attributes / properties.   We need to use the included files to load data for our unit tests.  Use each file to test the associated operation.   
+
+
+
+**Changelog:**
+
 Commits on Nov 16, 2019
 Task: Made changes in the codes
 
