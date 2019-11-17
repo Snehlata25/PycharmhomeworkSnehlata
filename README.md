@@ -7,6 +7,16 @@ For this project we need to create a calculator using Python that has automated 
 **Changelog:**
 
 Commits on Nov 16, 2019
+Task: updated project details
+
+@Snehlata25
+Snehlata25 committed 24 seconds ago
+  
+Feature: added changelog
+
+@Snehlata25
+Snehlata25 committed 5 minutes ago
+  
 Task: Made changes in the codes
 
 @Snehlata25
