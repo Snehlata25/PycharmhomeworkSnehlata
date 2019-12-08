@@ -6,6 +6,63 @@ For this project we need to create a calculator using Python that has automated 
 
 **Changelog:**
 
+Commits on Dec 7, 2019
+Task: Completed tutorial on Raw queries and Transactions
+
+@Snehlata25
+Snehlata25 committed 14 seconds ago
+  
+Task: Complated tutorial on Updating and Deleting data
+
+@Snehlata25
+Snehlata25 committed 2 minutes ago
+  
+Task: Completed tutorial on Casting and Unions
+
+@Snehlata25
+Snehlata25 committed 3 minutes ago
+  
+Task: Completed tutorial on Casting
+
+@Snehlata25
+Snehlata25 committed 5 minutes ago
+  
+Task: Completed tutorial on querying data
+
+@Snehlata25
+Snehlata25 committed 7 minutes ago
+  
+Task: Completed tutorial on inserting data
+
+@Snehlata25
+Snehlata25 committed 8 minutes ago
+  
+Task: Completed tutorial on inserting data
+
+@Snehlata25
+Snehlata25 committed 9 minutes ago
+  
+Task: Completed tutorial on creating session
+
+@Snehlata25
+Snehlata25 committed 11 minutes ago
+  
+Task: Modified READMe.md to include Mini project 3
+
+@Snehlata25
+Snehlata25 committed 21 minutes ago
+ 
+Task: Created new files
+
+@Snehlata25
+Snehlata25 committed 3 hours ago
+ 
+Task: Created new branch Sqlite
+
+@Snehlata25
+Snehlata25 committed 4 hours ago
+
+
 Commits on Nov 16, 2019
 Task: updated project details
 
