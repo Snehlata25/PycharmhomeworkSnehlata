@@ -1,7 +1,9 @@
-**Homework: Create a Calculator- Individual**
+**MiniProject: sqlAlchemy**
+For this homework, we need to create a new branch of your calculator project. In this branch, we need to follow this tutorial:
 
-For this project we need to create a calculator using Python that has automated unit tests.  Our calculator is required to perform the following operations: addition, subtraction, multiplication, division, square, and square root.  We need to correctly use static methods, object methods, object attributes / properties.   We need to use the included files to load data for our unit tests.  Use each file to test the associated operation.   
+https://overiq.com/sqlalchemy-101/crud-using-sqlalchemy-orm/ (Links to an external site.)
 
+We need to make a commit for each completed section.  
 
 
 **Changelog:**
@@ -78,6 +80,10 @@ Task: Made changes in the codes
 
 @Snehlata25
 Snehlata25 committed 8 hours ago
+ 
+ **Homework: Create a Calculator- Individual**
+
+For this project we need to create a calculator using Python that has automated unit tests.  Our calculator is required to perform the following operations: addition, subtraction, multiplication, division, square, and square root.  We need to correctly use static methods, object methods, object attributes / properties.   We need to use the included files to load data for our unit tests.  Use each file to test the associated operation.   
  
 Commits on Nov 2, 2019
 Task: Created a directory Test and moved all the CSV files under the … …
