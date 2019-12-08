@@ -1,3 +1,5 @@
+**Tutorial link: https://overiq.com/sqlalchemy-101/crud-using-sqlalchemy-orm/**
+
 Completed tutorial on creating session
 
 Completed tutorial on inserting data
@@ -7,3 +9,5 @@ Completed tutorial on querying data
 Completed tutorial on Casting and Unions
 
 Complated tutorial on Updating and Deleting data
+
+Completed tutorial on Raw queries and Transactions
