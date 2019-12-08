@@ -1,6 +1,7 @@
+FROM python:3.7
 
-FROM python:3
-
-ADD src /src
-
-CMD [ "python", "./src/CalculatorTest.py" ]
+COPY . /web
+WORKDIR /web
+RUN pip install -r ./requirements.txt
+ENTRYPOINT ["python"]
+CMD ["/web/Database/sqlite_create.py"]
