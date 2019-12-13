@@ -8,61 +8,98 @@ We need to make a commit for each completed section.
 
 **Changelog:**
 
-Commits on Dec 7, 2019
-Task: Completed tutorial on Raw queries and Transactions
-
-@Snehlata25
-Snehlata25 committed 14 seconds ago
-  
-Task: Complated tutorial on Updating and Deleting data
-
-@Snehlata25
-Snehlata25 committed 2 minutes ago
-  
-Task: Completed tutorial on Casting and Unions
-
-@Snehlata25
-Snehlata25 committed 3 minutes ago
-  
-Task: Completed tutorial on Casting
-
-@Snehlata25
-Snehlata25 committed 5 minutes ago
-  
-Task: Completed tutorial on querying data
-
-@Snehlata25
-Snehlata25 committed 7 minutes ago
-  
-Task: Completed tutorial on inserting data
+Feature: Inserted Order table
 
 @Snehlata25
 Snehlata25 committed 8 minutes ago
-  
-Task: Completed tutorial on inserting data
-
-@Snehlata25
-Snehlata25 committed 9 minutes ago
-  
-Task: Completed tutorial on creating session
-
-@Snehlata25
-Snehlata25 committed 11 minutes ago
-  
-Task: Modified READMe.md to include Mini project 3
-
-@Snehlata25
-Snehlata25 committed 21 minutes ago
  
-Task: Created new files
+Feature: Inserted new items
+
+@Snehlata25
+Snehlata25 committed 29 minutes ago
+ 
+Feature: Inserted new customers
+
+@Snehlata25
+Snehlata25 committed 32 minutes ago
+ 
+Feature: Created session
+
+@Snehlata25
+Snehlata25 committed 2 hours ago
+ 
+Merge remote-tracking branch 'origin/Sqlite' into Sqlite
 
 @Snehlata25
 Snehlata25 committed 3 hours ago
  
+Task: Created file sqlalchemy_test.py
+
+@Snehlata25
+Snehlata25 committed 3 hours ago
+ 
+Commits on Dec 7, 2019
+Task: updated README.md to indlude miniproject SqlAlchemy
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on Raw queries and Transactions
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Complated tutorial on Updating and Deleting data
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on Casting and Unions
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on Casting
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on querying data
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on inserting data
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on inserting data
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Completed tutorial on creating session
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+  
+Task: Modified READMe.md to include Mini project 3
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+ 
+Task: Created new files
+
+@Snehlata25
+Snehlata25 committed 6 days ago
+ 
 Task: Created new branch Sqlite
 
 @Snehlata25
-Snehlata25 committed 4 hours ago
+Snehlata25 committed 6 days ago
+ 
+
 
 
 Commits on Nov 16, 2019
