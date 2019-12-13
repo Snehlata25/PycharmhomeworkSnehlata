@@ -8,10 +8,18 @@ c.execute('''
           CREATE TABLE Customer
           (id INTEGER PRIMARY KEY ASC, name varchar(250) NOT NULL)
           ''')
+
 c.execute('''
           CREATE TABLE Item
           (id INTEGER PRIMARY KEY ASC, name varchar(250), cost_price FLOAT NOT NULL,
            selling_price FLOAT NOT NULL, quantity INTEGER NOT NULL,
+           FOREIGN KEY(customer_id) REFERENCES customer(id))
+          ''')
+
+
+c.execute('''
+          CREATE TABLE OrderLine
+          (id INTEGER PRIMARY KEY ASC, order INTEGER NOT NULL, item varchar(250), quantity INTEGER NOT NULL,
            FOREIGN KEY(customer_id) REFERENCES customer(id))
           ''')
 
